@@ -1,0 +1,10 @@
+G:\data\Calculator\к\bin\x64\Debug\к.exe.config
+G:\data\Calculator\к\bin\x64\Debug\к.exe
+G:\data\Calculator\к\bin\x64\Debug\к.pdb
+G:\data\Calculator\к\obj\x64\Debug\к.csprojAssemblyReference.cache
+G:\data\Calculator\к\obj\x64\Debug\к.Form1.resources
+G:\data\Calculator\к\obj\x64\Debug\к.Properties.Resources.resources
+G:\data\Calculator\к\obj\x64\Debug\к.csproj.GenerateResource.cache
+G:\data\Calculator\к\obj\x64\Debug\к.csproj.CoreCompileInputs.cache
+G:\data\Calculator\к\obj\x64\Debug\к.exe
+G:\data\Calculator\к\obj\x64\Debug\к.pdb
